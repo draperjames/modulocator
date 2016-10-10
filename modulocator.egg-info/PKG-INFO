@@ -1,10 +1,10 @@
 Metadata-Version: 1.0
-Name: drapgen
+Name: modulocator
 Version: 0.1
-Summary: Geneomic and proteomic tools for scienctists who work with Arabidosis thaliana
-Home-page: http://github.com/drapja/drapgen
+Summary: Want to use a python module you're developing in you Jupyter notebook? Use modulocator to do that
+Home-page: https://github.com/draperjames/modulocator/
 Author: James Daper
-Author-email: jadraper88@gmail.com
+Author-email: james.draper@duke.edu
 License: MIT
 Description: UNKNOWN
 Platform: UNKNOWN
