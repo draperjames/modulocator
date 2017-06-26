@@ -1,0 +1,11 @@
+
+# FILETYPES
+
+*.pyc
+*.xml
+
+# DIRECTORIES
+
+__pycache__/
+.idea/
+.ipynb_checkpoints
